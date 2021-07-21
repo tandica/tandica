@@ -1,11 +1,11 @@
-# Hi, I’m Tandica 👋
+# Hi, I’m Tandica 👋🏽
 
 ### I'm a full stack developer from Toronto, Ontario.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
- Send me a message: tandica@outlook.com [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/tandicawilliams)
+- 🌱 I’m currently enhancing my JavaScript skills and learning more C++
+- 👀 I’m interested in learning more about Artifical Intelligence and Web Accessibility
+- ⚡ Fun fact: when I'm not coding, I paint! 🎨
+
 
 ### Send me a message 📫
 [<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="26px"/>](tandica@outlook.com)
