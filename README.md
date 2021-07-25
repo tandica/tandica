@@ -2,18 +2,19 @@
 
 ### I'm a full stack developer from Toronto, Ontario.
 
-- 🌱 I’m currently enhancing my JavaScript skills and learning more C++
-- 👀 I’m interested in learning more about Artifical Intelligence and Web Accessibility
+- 🌱 I’m currently enhancing my JavaScript skills
+- 👀 I’m interested in learning more about Web Accessibility and Artifical Intelligence
 - ⚡ Fun fact: when I'm not coding, I paint! 🎨
 
 ### Send me a message 📫
+
 <img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/mail-512.png" width="16px"/> tandica@outlook.com
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="16px"/> [Tandica Williams](https://www.linkedin.com/in/tandica-williams-99a7b61b5/)
 
 ### Languages and Tools:
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />  
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
