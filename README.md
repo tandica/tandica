@@ -14,8 +14,11 @@
 
 ### Skills:
 Languages: JavaScript, TypeScript, HTML5, CSS3, EJS, SQL
+
 Technologies: Node.js, React, Express, Angular, jQuery, Ajax, Bootstrap, SASS, NPM, RESTful APIs, YAML
+
 Database: PostgreSQL, MongoDB
+
 Tools: Git, GitHub, Azure DevOps, AWS, JIRA, Linux, Jenkins, Artifactory, JFrog, Confluence
 <!---
 tandica/tandica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
