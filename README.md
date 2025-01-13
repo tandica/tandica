@@ -3,7 +3,7 @@
 ### I'm a full-stack developer from Toronto, Ontario.
 
 - 🌱 I’m currently enhancing my Linux skills
-- 👀 I’m interested in learning more about security and DevOps
+- 👀 I’m interested in learning more about Security, DevOps and Networking
 - ⚡ Fun fact: when I'm not coding, I paint! 🎨
 
 ### Send me a message 📫
