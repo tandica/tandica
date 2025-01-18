@@ -1,6 +1,6 @@
 # Hi, I’m Tandica 👋🏽
 
-### I'm a full-stack developer from Toronto, Ontario.
+### I'm an application developer.
 
 - 🌱 I’m currently enhancing my Linux skills
 - 👀 I’m interested in learning more about Security, DevOps and Networking
